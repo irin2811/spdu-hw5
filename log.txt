@@ -1,0 +1,13 @@
+API started:
+
+Fri Dec 24 2021 17:41:41 GMT+0200 (Восточная Европа, стандартное время)
+POST
+/auth
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+::1
+
+Fri Dec 24 2021 17:41:50 GMT+0200 (Восточная Европа, стандартное время)
+GET
+/users
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+::1
